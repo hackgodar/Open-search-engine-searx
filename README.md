@@ -14,3 +14,4 @@ chmod +x SearX_Installer.sh
 ./SearX_Installer.sh
 ```
 ### Video Tutorial!
+https://youtu.be/3IiBAzSwPDk
