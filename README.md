@@ -13,5 +13,5 @@ cd Open-search-engine-searx
 chmod +x SearX_Installer.sh
 ./SearX_Installer.sh
 ```
-### Video Tutorial!
+#### Video Tutorial!
 https://youtu.be/3IiBAzSwPDk
